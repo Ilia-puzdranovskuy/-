@@ -1,0 +1,13 @@
+{
+  "name": "tp_kursova",
+  "version": "0.0.1",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "dependencies": {
+    "express": "^4.15.2",
+    "socket.io": "^2.0.1"
+  }
+}
